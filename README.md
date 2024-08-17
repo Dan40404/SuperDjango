@@ -1,0 +1,2 @@
+# SuperDjango
+Django sucks
